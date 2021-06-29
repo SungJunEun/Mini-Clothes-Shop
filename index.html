@@ -12,16 +12,22 @@
   <body>
     <script src="script.js"></script>
     <header>
-      <img src="imgs/logo.png" alt="">
+      <img class = 'logo' src="imgs/logo.png" alt="">
     </header>
     <main>
       <nav>
-      <button class="tshirt"><img src="imgs/blue_t.png" alt="" class="icon"></button>
-      <button class="pant"><img src="imgs/blue_p.png" alt="" class="icon"></button>
-      <button class="skirt"><img src="imgs/blue_s.png" alt="" class="icon"></button>
-      <button class="blue_color">Blue</button>
-      <button class="yellow_color">Yellow</button>
-      <button class="pink_color">Pink</button>
+      <button class="tshirt"><img src="imgs/blue_t.png" alt="" class="icon" data-key= "type" data-value="tshirt"></button>
+      <button class="pant"><img src="imgs/blue_p.png" alt="" class="icon" data-key= "type" data-value= "pants"></button>
+      <button class="skirt"><img src="imgs/blue_s.png" alt="" class="icon" data-key= "type" data-value= "skirt"></button>
+      <button class="blue_color"
+      data-key= "color" data-value="blue">
+      Blue</button>
+      <button class="yellow_color"
+      data-key= "color" data-value="yellow">
+      Yellow</button>
+      <button class="pink_color"
+      data-key= "color" data-value="pink">
+      Pink</button>
     </nav>
       <ul>
         <li class="product"><img src="imgs/blue_p.png" alt=""><span>female large size</span></li>
