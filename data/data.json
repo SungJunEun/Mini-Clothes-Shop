@@ -1,0 +1,96 @@
+{
+   "items": [
+      {
+         "gender": "male",
+         "color": "blue",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/blue_t.png"
+      },
+      {
+         "gender": "male",
+         "color": "blue",
+         "type": "pants",
+         "size": "small",
+         "img": "imgs/blue_p.png"
+      },
+      {
+         "gender": "male",
+         "color": "yellow",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/yellow_t.png"
+      },
+      {
+         "gender": "female",
+         "color": "pink",
+         "type": "tshirt",
+         "size": "small",
+         "img": "imgs/pink_t.png"
+      },
+      {
+         "gender": "male",
+         "color": "yellow",
+         "type": "pants",
+         "size": "small",
+         "img": "imgs/yellow_p.png"
+      },
+      {
+         "gender": "female",
+         "color": "blue",
+         "type": "pants",
+         "size": "small",
+         "img": "imgs/blue_p.png"
+      },
+      {
+         "gender": "female",
+         "color": "yellow",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/yellow_t.png"
+      },
+      {
+         "gender": "male",
+         "color": "yellow",
+         "type": "pants",
+         "size": "large",
+         "img": "imgs/yellow_p.png"
+      },
+      {
+         "gender": "female",
+         "color": "pink",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/pink_t.png"
+      },
+      {
+         "gender": "female",
+         "color": "pink",
+         "type": "pants",
+         "size": "small",
+         "img": "imgs/pink_p.png"
+      },
+      {
+         "gender": "male",
+         "color": "yellow",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/yellow_t.png"
+      },
+      {
+         "gender": "female",
+         "color": "blue",
+         "type": "tshirt",
+         "size": "small",
+         "img": "imgs/blue_t.png"
+      },
+      {
+         "gender": "male",
+         "color": "pink",
+         "type": "tshirt",
+         "size": "large",
+         "img": "imgs/pink_t.png"
+      }
+
+   ]
+}
