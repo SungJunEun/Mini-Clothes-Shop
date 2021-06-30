@@ -9,7 +9,7 @@
 - Learn about Fetch API & Events in JS
 - Project based on [Reference]
 
-from 2021.06.28 - 2021.06.30
+*from 2021.06.28 - 2021.06.30*
 
 ----
 
@@ -29,6 +29,9 @@ with Github.
     - Write JSON file with the items we wnat to display
     - fetch API to access the JSON data 
     - `createHTMLstring` function to modify JSON body into HTML format 
+
+    ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60536942/123971293-e01a4e00-d9f4-11eb-99b1-44a800acd9af.gif)
+
 - ### Filtering items 
     - `addEventListner` method to set up a function when the buttons are clicked
     - `onButtonClick` funciton & `filter` method to filter items 
