@@ -1,4 +1,3 @@
-# dreamcoding_minigame
 # Mini Clothes Shop
 ***Simple & first CSS, HTML, JS Implementation***
 
