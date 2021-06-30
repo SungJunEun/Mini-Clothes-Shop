@@ -40,5 +40,7 @@ with Github.
     ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60536942/123970309-f96eca80-d9f3-11eb-871b-b4bde5873830.gif)
 
 ## Architecture
+   <img src= "https://user-images.githubusercontent.com/60536942/123974240-72bbec80-d9f7-11eb-9e82-7cf68354f897.jpeg" width = 50% height = 50%>
+
 
 
