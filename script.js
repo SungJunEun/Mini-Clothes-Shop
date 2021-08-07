@@ -1,6 +1,6 @@
 function loadItems() {
-  return fetch('data/data.json')
-    .then(response => response.json())
+  return fetch('data/data.json') // fetch returns response
+    .then(response => response.json())  // .json returns promise which resolves with js object that is result of parsing the body text as JSON
     .then(data => data.items);
 }
 function displayItems(items) {
@@ -14,14 +14,21 @@ function createHTMLstring(item) {
   <span>${item.gender} ${item.size} size</span>
   </li>`; // return 옆에서 바로 시작해야 알아먹음
 }
+
 function setEventlistners(items) {
   const logo = document.querySelector('.logo');
-  const btn = document.querySelector('nav');
-  logo.addEventListener('click', ()=> displayItems(items));
-  btn.addEventListener('click', event => onButtonClick(event, items));
+  const menu = document.querySelector('nav');
+  logo.addEventListener('click', logodisplay);
+  menu.addEventListener('click', menudisplay);
+  function logodisplay() {
+    displayItems(items);
+  }
+  function menudisplay(e) {
+    onButtonClick(e, items);
+  }
 }
 function onButtonClick(event, items) {
-  const key = event.target.dataset.key;
+  const key = event.target.dataset.key;  //using data attribute
   const value = event.target.dataset.value;
   if(key == null || value == null) {
     return;
