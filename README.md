@@ -19,7 +19,7 @@ I used..
 - [HTML] -Backbone of the web application
 - [CSS] - Make it prettier
 - [Javascript] - Allow me to play with web
-- [Replit] - Great cloud based IDE
+- [Replit]
 
 with Github.
 
