@@ -16,10 +16,10 @@
 ## Tech
 
 I used..
-- [HTML] -Backbone of the web application
-- [CSS] - Make it prettier
-- [Javascript] - Allow me to play with web
-- [Replit]
+- HTML -Backbone of the web application
+- CSS - Make it prettier
+- Javascript - Allow me to play with web
+- Replit
 
 with Github.
 
