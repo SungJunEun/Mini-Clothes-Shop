@@ -9,7 +9,7 @@
 - Learn about Fetch API & Events in JS
 - Project based on [Online Course from Dream Coding](https://www.youtube.com/watch?v=We2Kv1HMGvc)
 
-*from 2021.06.28 - 2021.06.30*
+*from 2021.06.28 - 30.*
 
 ----
 
